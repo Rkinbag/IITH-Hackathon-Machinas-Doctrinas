@@ -7,6 +7,7 @@ year. The dataset also contains the overall power level of each country given by
 name “Power level”. Your task is to use this training dataset and build a model which can
 predict the power level of each country for the year 2023. Your output will be tested on a
 hidden test dataset which contains the actual power level.
+
 **Deliverables:**
 
 1. Participants are required to submit a Python notebook that was used to train and fine-
