@@ -1,5 +1,5 @@
 # IITH-Hackathon-Machinas-Doctrinas
-### Public data - test set
+### Public data - train set
 ## Problem Statement
 that he can defend the castle yet again?
 You are given a training dataset containing information about different countries of each
